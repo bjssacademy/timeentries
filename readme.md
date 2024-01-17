@@ -10,7 +10,7 @@ A customer has come to us with a problem:
 
 "We need to know how many night hours and how many regular working hours are worked when given an input file."
 
-"Please note, the minimum increment that can be recorded is 30m, the maximimum is 12, and shifts start or end on the hour or every half hour."
+"Please note, the minimum increment that can be recorded is 30m, the maximimum is 12 hours, and shifts start or end on the hour or every half hour."
 
 ## Task
 
